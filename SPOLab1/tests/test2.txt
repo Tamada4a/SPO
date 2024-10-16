@@ -1,0 +1,19 @@
+bool test_func(int a, int b, byte test) {
+    int i = 0, c = 0, a = 0;
+    while (i < 10) {
+        int a;
+        if (i > 3) {
+            a = 1;
+        } else {
+            a = 2;
+        }
+        x + 3 = 2;
+        do {
+            a = "10+10";
+            a = 'c';
+            a = true;
+                break;
+        }
+        while (a > 1000);
+    }
+}

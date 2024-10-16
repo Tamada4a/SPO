@@ -1,0 +1,11 @@
+bool test_func() {
+    int i = 0;
+    while (i < 10) {
+        int a;
+        if (i > 3) {
+            a = 1;
+        } else {
+            a = 2;
+        }
+    }
+}
